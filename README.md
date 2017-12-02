@@ -3,8 +3,7 @@ Track Objects using Python - OpenCv
 .
 .
 #Mouse Click Tracking
-This file uses your web cam or the primary camera device attached to your machine.
-And tracks the object using its colour.
+This file uses your web cam or the primary camera device attached to your machine and tracks the object in the camera using its colour in real time.
 
 Dependencies: numpy, opencv
 
